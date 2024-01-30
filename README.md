@@ -1,8 +1,23 @@
-# React + Vite
+#Methods used to create this portfolio page(Pre-01/30/24 updates):
+- React-scroll.
+- React-icons.
+- onClick to handle navbar inputs.
+- useState for a interactive and functional navbar.
+- Conditional Rendering(ternary operators).
+- imported css styling and font(Google Fonts).
+- Tailwind CSS for responsive design, typography, and simple layouts.
+- Form "POST" method, with a getform.io link action within the contact section, allowing users to send me messages personally.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+#01/30/24 Update:
+- Added React-Typed animation text in the Home Section
+- Added functional links to the sidebar with blank targets for user experience(Github, LinkedIn, Email)
+- Updated Skills cards to match concurrent skills, as well as making them responsive
+- Updated text descriptions and styling for better design flow in almost all sections
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Future Plans for iterations(01/30/24+):
+- Add a resume link with a CV/resume
+- Update text content for my Home section, About section, possibly Work section, and some micro-copy as well(Buttons, links, forms, etc).
+- Add observable works and update the image cards in the work section
+- Deploy this website
+- Possibly change up the colour scheme and Logo
